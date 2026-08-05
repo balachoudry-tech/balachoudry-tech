@@ -3,118 +3,107 @@
 
 # Hi 👋 I'm R. Balachoudry
 
-### Engineering Manager • Backend & Distributed Systems
+### Engineering Manager • Backend Platform • Distributed Systems
 
-Building scalable backend platforms, high-availability distributed systems, and production-ready cloud applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Engineering+Manager;Backend+Platform+Engineer;Distributed+Systems+Specialist;Microservices+%7C+Cloud+Architecture;Building+Reliable+High+Scale+Systems" alt="Typing SVG" />
 
-<p align="center">
-  <a href="mailto:bala.choudry@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/balachoudry/">
-    <img src="https://img.shields.io/badge/LinkedIn-Balachoudry-blue?style=for-the-badge&logo=linkedin" />
-  </a>
+<p>
+<a href="mailto:bala.choudry@gmail.com">
+<img src="https://img.shields.io/badge/Email-bala.choudry%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/balachoudry/">
+<img src="https://img.shields.io/badge/LinkedIn-Balachoudry-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+
 </p>
 
 </div>
 
 ---
 
-# 👨‍💼 About Me
+# 💼 About Me
 
-Engineering Manager with **15+ years of experience** building and leading backend engineering teams delivering high-scale, business-critical platforms.
+Engineering Manager with **15+ years** of experience designing, building, and leading backend platforms that power high-availability applications.
 
-I combine **technical leadership** with **hands-on engineering**, actively contributing to architecture, code reviews, complex migrations, debugging production systems, and mentoring engineers while leading backend platform teams.
+I enjoy combining **technical leadership** with **hands-on engineering**, working across architecture, distributed systems, performance optimization, production reliability, and mentoring engineering teams.
 
-My experience spans high-availability systems processing **millions of API requests per day**, distributed architectures, cloud-native applications, and AI-powered platform capabilities.
-
----
-
-# 💼 Professional Experience
-
-## Engineering Manager – Backend Platform
-
-**Kaleyra (Acquired by Tata Communications)**  
-**October 2020 – Present**
-
-- Leading mixed-seniority backend engineering teams
-- Driving architecture decisions and production readiness
-- Conducting code reviews and technical mentoring
-- Leading monolith to microservice migrations
-- Improving system latency, reliability, and release velocity
-- Building AI-powered customer assistance capabilities using Retrieval-Augmented Generation (RAG)
+My experience includes building and operating backend services processing **millions of API requests daily**, driving microservice adoption, improving system reliability, and enabling faster software delivery.
 
 ---
 
-## Previous Experience
+# 🚀 Core Expertise
 
-- Manager – Technology | Mahindra First Choice Wheels
-- Software Engineer | GBS India Pvt Ltd
-- Team Lead | Griffin Studios Pvt Ltd
-- Web Developer | Foray Technologies
+### Engineering Leadership
 
----
-
-# 🏗 Core Competencies
-
-### Technical Leadership
-
-- System Design
-- Software Architecture
+- Engineering Management
+- Technical Leadership
+- Architecture Reviews
 - Code Reviews
 - Agile / Scrum
 - SDLC
-- SaaS Platforms
-
-### People Leadership
-
-- Engineering Management
-- Team Building
-- Hiring
-- Mentoring
-- Career Development
-- Performance Management
-
-### Architecture
-
-- Distributed Systems
-- Microservices
-- Event-Driven Architecture
-- RESTful APIs
-- High Availability Systems
+- Mentoring & Coaching
+- Hiring & Performance Management
 
 ---
 
-# 💻 Technology Stack
+### Backend Engineering
+
+- High Availability Systems
+- REST APIs
+- Distributed Systems
+- Event-Driven Architecture
+- Microservices
+- Performance Optimization
+- Scalability Engineering
+
+---
 
 ### Languages
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p>
 
-### Frameworks
+<img src="https://skillicons.dev/icons?i=go,nodejs,python,php"/>
 
-- FastAPI
-- Laravel
+</p>
+
+---
+
+### Frameworks & Technologies
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,laravel"/>
+
+</p>
+
+---
 
 ### Databases
 
-- MySQL
-- MongoDB
-- Redis
-- Google Firestore
-- DynamoDB
-- ChromaDB
+<p>
 
-### Cloud & Messaging
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
 
-- AWS Lambda
-- Amazon SQS
-- Amazon SNS
-- Amazon S3
-- RabbitMQ
+</p>
+
+Google Firestore • DynamoDB • ChromaDB
+
+---
+
+### Cloud & Infrastructure
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker"/>
+
+</p>
+
+AWS Lambda • Amazon SNS • Amazon SQS • Amazon S3 • RabbitMQ
+
+---
 
 ### Monitoring
 
@@ -123,43 +112,62 @@ My experience spans high-availability systems processing **millions of API reque
 
 ---
 
-# 🤖 AI & GenAI
+# 🤖 AI Experience
 
 - Retrieval-Augmented Generation (RAG)
 - Claude LLM Integration
-- Chroma Vector Database
-- Embeddings
+- Vector Databases (ChromaDB)
+- Embedding Models
 - AI-Assisted Development Workflows
 
 ---
 
-# 📊 Engineering Focus
+# 🏆 Professional Highlights
 
-- Backend Engineering
-- Platform Engineering
-- Distributed Systems
-- API Design
-- Performance Optimization
-- Scalability
-- Production Reliability
-- Incident Management
-- Root Cause Analysis
+- 🚀 15+ Years in Software Engineering
+- 👥 Engineering Manager leading backend platform teams
+- ⚙️ Architecting high-scale backend platforms
+- 🌐 Systems processing millions of API requests daily
+- 🔄 Led monolith-to-microservice migrations
+- 📈 Improved latency, reliability, and release velocity
+- 🧠 Hands-on in architecture, debugging, and production readiness
+- 🤝 Cross-functional collaboration with Product, QA, Operations, and Leadership
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10&row=1"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -167,15 +175,24 @@ My experience spans high-availability systems processing **millions of API reque
 
 # 🎓 Education
 
-- Master of Computer Applications (MCA)
-- Master of Business Administration (MBA)
-- Bachelor of Computer Applications (BCA)
+- **Master of Computer Applications (MCA)**
+- **Master of Business Administration (MBA)**
+- **Bachelor of Computer Applications (BCA)**
+
+---
+
+# 🌍 Domains Worked In
+
+- CPaaS
+- Insurance
+- Automotive
+- Finance
 
 ---
 
 <div align="center">
 
-### "Great software is built through strong engineering principles, continuous learning, and collaborative teams."
+### 💬 *"Engineering is about building systems that scale, teams that grow, and software that lasts."*
 
 </div>
 ```
