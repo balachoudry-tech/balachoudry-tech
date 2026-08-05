@@ -1,22 +1,22 @@
-```markdown
 <div align="center">
 
-# Hi 👋 I'm R. Balachoudry
+# Hi 👋, I'm R. Balachoudry
 
 ### Engineering Manager • Backend Platform • Distributed Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Engineering+Manager;Backend+Platform+Engineer;Distributed+Systems+Specialist;Microservices+%7C+Cloud+Architecture;Building+Reliable+High+Scale+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Engineering+Manager;Backend+Platform+Engineer;Distributed+Systems+Specialist;Building+High+Availability+Systems;Microservices+%7C+Cloud+Architecture" alt="Typing Animation" />
 
 <p>
+
 <a href="mailto:bala.choudry@gmail.com">
-<img src="https://img.shields.io/badge/Email-bala.choudry%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-bala.choudry%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/balachoudry/">
-<img src="https://img.shields.io/badge/LinkedIn-Balachoudry-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Balachoudry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -24,86 +24,91 @@
 
 ---
 
-# 💼 About Me
+## 👨‍💼 About Me
 
-Engineering Manager with **15+ years** of experience designing, building, and leading backend platforms that power high-availability applications.
+Engineering Manager with **15+ years of experience** building scalable backend platforms and leading engineering teams.
 
-I enjoy combining **technical leadership** with **hands-on engineering**, working across architecture, distributed systems, performance optimization, production reliability, and mentoring engineering teams.
+I combine technical leadership with hands-on software engineering, contributing to architecture, system design, code reviews, production debugging, and platform modernization while mentoring engineers and driving engineering excellence.
 
-My experience includes building and operating backend services processing **millions of API requests daily**, driving microservice adoption, improving system reliability, and enabling faster software delivery.
+My experience spans high-availability distributed systems processing **millions of API requests daily**, microservices, cloud-native platforms, and AI-enabled backend solutions.
 
 ---
 
-# 🚀 Core Expertise
+## 💼 Professional Experience
 
-### Engineering Leadership
+### Engineering Manager – Backend Platform
+**Kaleyra (Acquired by Tata Communications)**
+
+- Lead backend engineering teams delivering production-ready services
+- Drive architecture reviews and engineering best practices
+- Hands-on with coding, debugging and critical production issues
+- Lead monolith-to-microservice modernization initiatives
+- Improve latency, reliability and deployment velocity
+- Mentor engineers and support career development
+
+---
+
+## 🏗 Core Competencies
+
+### Technical Leadership
 
 - Engineering Management
-- Technical Leadership
-- Architecture Reviews
+- Software Architecture
+- System Design
 - Code Reviews
 - Agile / Scrum
 - SDLC
-- Mentoring & Coaching
-- Hiring & Performance Management
+- SaaS Platforms
 
----
+### People Leadership
+
+- Hiring
+- Mentoring
+- Coaching
+- Performance Management
+- Career Development
 
 ### Backend Engineering
 
-- High Availability Systems
-- REST APIs
 - Distributed Systems
-- Event-Driven Architecture
+- High Availability Systems
 - Microservices
+- Event-Driven Architecture
+- REST APIs
 - Performance Optimization
 - Scalability Engineering
 
 ---
 
+## 💻 Technology Stack
+
 ### Languages
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=go,nodejs,python,php"/>
-
 </p>
 
----
-
-### Frameworks & Technologies
+### Frameworks
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=fastapi,laravel"/>
-
 </p>
-
----
 
 ### Databases
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
-
 </p>
 
-Google Firestore • DynamoDB • ChromaDB
-
----
+**Google Firestore • DynamoDB • ChromaDB**
 
 ### Cloud & Infrastructure
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=aws,docker"/>
-
 </p>
 
 AWS Lambda • Amazon SNS • Amazon SQS • Amazon S3 • RabbitMQ
-
----
 
 ### Monitoring
 
@@ -112,30 +117,30 @@ AWS Lambda • Amazon SNS • Amazon SQS • Amazon S3 • RabbitMQ
 
 ---
 
-# 🤖 AI Experience
+## 🤖 AI Experience
 
 - Retrieval-Augmented Generation (RAG)
 - Claude LLM Integration
-- Vector Databases (ChromaDB)
+- Chroma Vector Database
 - Embedding Models
 - AI-Assisted Development Workflows
 
 ---
 
-# 🏆 Professional Highlights
+## 🏆 Career Highlights
 
-- 🚀 15+ Years in Software Engineering
+- 💼 15+ Years in Software Engineering
 - 👥 Engineering Manager leading backend platform teams
-- ⚙️ Architecting high-scale backend platforms
-- 🌐 Systems processing millions of API requests daily
+- 🚀 Designed high-scale distributed backend systems
+- ⚡ Services processing millions of API requests daily
 - 🔄 Led monolith-to-microservice migrations
-- 📈 Improved latency, reliability, and release velocity
-- 🧠 Hands-on in architecture, debugging, and production readiness
-- 🤝 Cross-functional collaboration with Product, QA, Operations, and Leadership
+- 📈 Improved latency, reliability and release velocity
+- 🧠 Hands-on architecture, debugging and production readiness
+- 🤝 Partnered with Product, QA, Operations and Leadership
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
 
@@ -145,6 +150,10 @@ AWS Lambda • Amazon SNS • Amazon SQS • Amazon S3 • RabbitMQ
 
 </p>
 
+---
+
+## 💻 Most Used Languages
+
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
@@ -153,17 +162,7 @@ AWS Lambda • Amazon SNS • Amazon SQS • Amazon S3 • RabbitMQ
 
 ---
 
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=10&row=1"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -173,15 +172,17 @@ AWS Lambda • Amazon SNS • Amazon SQS • Amazon S3 • RabbitMQ
 
 ---
 
-# 🎓 Education
+## 🏅 GitHub Trophies
 
-- **Master of Computer Applications (MCA)**
-- **Master of Business Administration (MBA)**
-- **Bachelor of Computer Applications (BCA)**
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+
+</p>
 
 ---
 
-# 🌍 Domains Worked In
+## 🌍 Industry Experience
 
 - CPaaS
 - Insurance
@@ -190,9 +191,28 @@ AWS Lambda • Amazon SNS • Amazon SQS • Amazon S3 • RabbitMQ
 
 ---
 
+## 🎓 Education
+
+- Master of Computer Applications (MCA)
+- Master of Business Administration (MBA)
+- Bachelor of Computer Applications (BCA)
+
+---
+
 <div align="center">
 
-### 💬 *"Engineering is about building systems that scale, teams that grow, and software that lasts."*
+### 🤝 Let's Connect
+
+<a href="mailto:bala.choudry@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/balachoudry/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+**"Building scalable systems, empowering engineers, and delivering reliable software."**
 
 </div>
-```
