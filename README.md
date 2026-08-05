@@ -12,7 +12,7 @@ Building scalable software • Cloud Native Applications • AI Platforms
 
 # 👨‍💻 About Me
 
-🚀 Engineering Manager with **14+ years** of experience building scalable software.
+🚀 Engineering Manager with **15+ years** of experience building scalable software.
 
 💡 Passionate about
 
@@ -63,8 +63,6 @@ Docker
 
 Kubernetes
 
-Terraform
-
 GitHub Actions
 
 ---
@@ -74,16 +72,6 @@ GitHub Actions
 Kafka
 
 RabbitMQ
-
----
-
-## Testing
-
-Playwright
-
-Selenium
-
-REST Assured
 
 ---
 
@@ -171,15 +159,6 @@ CI/CD
 
 ---
 
-# 🌱 Currently Learning
-
-- AI Agents
-- MCP
-- AWS Architecture
-- Kubernetes
-- High Scale Systems
-
----
 
 # 📚 Latest Goals
 
