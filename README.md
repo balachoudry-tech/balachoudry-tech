@@ -1,72 +1,207 @@
-# Hi 👋 I'm Balachoudry R
+<h1 align="center">Hi 👋, I'm Balachoudry R</h1>
 
-## Engineering Manager | Backend Engineer | AI Enthusiast
+<h3 align="center">
+Engineering Manager • Backend Engineer • AI Builder • System Design Enthusiast
+</h3>
 
-I build scalable backend systems, cloud-native applications, and AI-powered solutions.
-
-Currently focused on:
-
-- 🤖 AI Engineering
-- ☁️ AWS Cloud
-- 🏗 System Design
-- ⚡ Microservices
-- 🚀 Engineering Leadership
+<p align="center">
+Building scalable software • Cloud Native Applications • AI Platforms
+</p>
 
 ---
 
-## 💻 Tech Stack
+# 👨‍💻 About Me
 
-### Languages
+🚀 Engineering Manager with **14+ years** of experience building scalable software.
 
-Go • Node.js • Python • PHP • JavaScript
+💡 Passionate about
 
-### Backend
-
-FastAPI • Express • REST APIs
-
-### Database
-
-MySQL • MongoDB • PostgreSQL • Redis
-
-### Cloud
-
-AWS • Docker • Kubernetes • Terraform
-
-### Messaging
-
-Kafka • RabbitMQ
-
-### Testing
-
-Playwright • Selenium
-
----
-
-## 🚀 Featured Projects
-
-- Cosmetrus AI Platform
+- AI Engineering
+- Backend Development
+- Distributed Systems
 - System Design
-- Go Microservices
-- Authentication Service
-- Playwright Framework
+- Cloud Architecture
+- Engineering Leadership
+
+🎯 Currently Building
+
+- 🤖 Cosmetrus – Enterprise AI Platform
+- ☁️ AWS Cloud Skills
+- 📚 System Design Repository
+- 🎥 Tech YouTube Channel
 
 ---
 
-## 🌱 Learning
+# 🛠 Tech Stack
+
+## Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+
+---
+
+## Backend
+
+FastAPI • Express • REST APIs • JWT • OAuth
+
+---
+
+## Database
+
+MySQL • PostgreSQL • MongoDB • Redis
+
+---
+
+## Cloud
+
+AWS
+
+Docker
+
+Kubernetes
+
+Terraform
+
+GitHub Actions
+
+---
+
+## Messaging
+
+Kafka
+
+RabbitMQ
+
+---
+
+## Testing
+
+Playwright
+
+Selenium
+
+REST Assured
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 Cosmetrus
+
+Enterprise AI Platform
+
+- Authentication
+- Vector Search
+- RAG
+- MCP
+- AI Agents
+
+---
+
+## 🏗 System Design
+
+High Level Design
+
+Low Level Design
+
+Scalability
+
+Tradeoffs
+
+---
+
+## ⚡ Go Microservices
+
+Production Ready
+
+Clean Architecture
+
+DDD
+
+Event Driven
+
+---
+
+## 🔐 FastAPI Authentication
+
+JWT
+
+OAuth
+
+Redis
+
+RBAC
+
+---
+
+## 🧪 Playwright Framework
+
+Enterprise Automation
+
+API Testing
+
+Reporting
+
+CI/CD
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
 
 - AI Agents
 - MCP
-- LLM Applications
-- Cloud Architecture
+- AWS Architecture
+- Kubernetes
+- High Scale Systems
 
 ---
 
-## 📫 Connect
+# 📚 Latest Goals
 
-LinkedIn
-
-YouTube (Coming Soon)
-
-Email
+- Build open-source AI projects
+- Teach System Design
+- Publish Engineering Articles
+- Grow Technical YouTube Channel
 
 ---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn : https://www.linkedin.com/in/balachoudry/
+
+📧 Email : bala.choudry@gmail.com
+
+🎥 YouTube (Coming Soon)
+
+---
+
+<p align="center">
+
+<i>"Build software that scales. Build teams that grow."</i>
+
+</p>
