@@ -1,175 +1,181 @@
-<h1 align="center">Hi 👋, I'm Balachoudry R</h1>
+```markdown
+<div align="center">
 
-<h3 align="center">
-Engineering Manager • Backend Engineer • AI Builder • System Design Enthusiast
-</h3>
+# Hi 👋 I'm R. Balachoudry
+
+### Engineering Manager • Backend & Distributed Systems
+
+Building scalable backend platforms, high-availability distributed systems, and production-ready cloud applications.
 
 <p align="center">
-Building scalable software • Cloud Native Applications • AI Platforms
+  <a href="mailto:bala.choudry@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/balachoudry/">
+    <img src="https://img.shields.io/badge/LinkedIn-Balachoudry-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💼 About Me
 
-🚀 Engineering Manager with **15+ years** of experience building scalable software.
+Engineering Manager with **15+ years of experience** building and leading backend engineering teams delivering high-scale, business-critical platforms.
 
-💡 Passionate about
+I combine **technical leadership** with **hands-on engineering**, actively contributing to architecture, code reviews, complex migrations, debugging production systems, and mentoring engineers while leading backend platform teams.
 
-- AI Engineering
-- Backend Development
-- Distributed Systems
+My experience spans high-availability systems processing **millions of API requests per day**, distributed architectures, cloud-native applications, and AI-powered platform capabilities.
+
+---
+
+# 💼 Professional Experience
+
+## Engineering Manager – Backend Platform
+
+**Kaleyra (Acquired by Tata Communications)**  
+**October 2020 – Present**
+
+- Leading mixed-seniority backend engineering teams
+- Driving architecture decisions and production readiness
+- Conducting code reviews and technical mentoring
+- Leading monolith to microservice migrations
+- Improving system latency, reliability, and release velocity
+- Building AI-powered customer assistance capabilities using Retrieval-Augmented Generation (RAG)
+
+---
+
+## Previous Experience
+
+- Manager – Technology | Mahindra First Choice Wheels
+- Software Engineer | GBS India Pvt Ltd
+- Team Lead | Griffin Studios Pvt Ltd
+- Web Developer | Foray Technologies
+
+---
+
+# 🏗 Core Competencies
+
+### Technical Leadership
+
 - System Design
-- Cloud Architecture
-- Engineering Leadership
+- Software Architecture
+- Code Reviews
+- Agile / Scrum
+- SDLC
+- SaaS Platforms
 
-🎯 Currently Building
+### People Leadership
 
-- 🤖 Cosmetrus – Enterprise AI Platform
-- ☁️ AWS Cloud Skills
-- 📚 System Design Repository
-- 🎥 Tech YouTube Channel
+- Engineering Management
+- Team Building
+- Hiring
+- Mentoring
+- Career Development
+- Performance Management
 
----
+### Architecture
 
-# 🛠 Tech Stack
-
-## Languages
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-
----
-
-## Backend
-
-FastAPI • Express • REST APIs • JWT • OAuth
+- Distributed Systems
+- Microservices
+- Event-Driven Architecture
+- RESTful APIs
+- High Availability Systems
 
 ---
 
-## Database
+# 💻 Technology Stack
 
-MySQL • PostgreSQL • MongoDB • Redis
+### Languages
 
----
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-## Cloud
+### Frameworks
 
-AWS
+- FastAPI
+- Laravel
 
-Docker
+### Databases
 
-Kubernetes
+- MySQL
+- MongoDB
+- Redis
+- Google Firestore
+- DynamoDB
+- ChromaDB
 
-GitHub Actions
+### Cloud & Messaging
 
----
+- AWS Lambda
+- Amazon SQS
+- Amazon SNS
+- Amazon S3
+- RabbitMQ
 
-## Messaging
+### Monitoring
 
-Kafka
-
-RabbitMQ
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 Cosmetrus
-
-Enterprise AI Platform
-
-- Authentication
-- Vector Search
-- RAG
-- MCP
-- AI Agents
+- AWS CloudWatch
+- New Relic
 
 ---
 
-## 🏗 System Design
+# 🤖 AI & GenAI
 
-High Level Design
-
-Low Level Design
-
-Scalability
-
-Tradeoffs
+- Retrieval-Augmented Generation (RAG)
+- Claude LLM Integration
+- Chroma Vector Database
+- Embeddings
+- AI-Assisted Development Workflows
 
 ---
 
-## ⚡ Go Microservices
+# 📊 Engineering Focus
 
-Production Ready
-
-Clean Architecture
-
-DDD
-
-Event Driven
-
----
-
-## 🔐 FastAPI Authentication
-
-JWT
-
-OAuth
-
-Redis
-
-RBAC
+- Backend Engineering
+- Platform Engineering
+- Distributed Systems
+- API Design
+- Performance Optimization
+- Scalability
+- Production Reliability
+- Incident Management
+- Root Cause Analysis
 
 ---
 
-
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark"/>
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 🎓 Education
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- Master of Computer Applications (MCA)
+- Master of Business Administration (MBA)
+- Bachelor of Computer Applications (BCA)
 
 ---
 
+<div align="center">
 
-# 📚 Latest Goals
+### "Great software is built through strong engineering principles, continuous learning, and collaborative teams."
 
-- Build open-source AI projects
-- Teach System Design
-- Publish Engineering Articles
-- Grow Technical YouTube Channel
-
----
-
-# 🤝 Connect With Me
-
-💼 LinkedIn : https://www.linkedin.com/in/balachoudry/
-
-📧 Email : bala.choudry@gmail.com
-
-🎥 YouTube (Coming Soon)
-
----
-
-<p align="center">
-
-<i>"Build software that scales. Build teams that grow."</i>
-
-</p>
+</div>
+```
