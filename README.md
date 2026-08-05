@@ -1,217 +1,169 @@
 <div align="center">
 
-# Hi 👋, I'm R. Balachoudry
+# R. Balachoudry
 
 ### Engineering Manager • Backend Platform • Distributed Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Engineering+Manager;Backend+Platform+Engineer;Distributed+Systems+Specialist;Building+High+Availability+Systems;Microservices+%7C+Cloud+Architecture" alt="Typing Animation" />
+Designing scalable backend platforms, leading engineering teams, and building reliable distributed systems.
 
-<p>
-
-<a href="mailto:bala.choudry@gmail.com">
-<img src="https://img.shields.io/badge/Email-bala.choudry%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/balachoudry/">
-<img src="https://img.shields.io/badge/LinkedIn-Balachoudry-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Balachoudry-0A66C2?style=flat-square\&logo=linkedin)](https://www.linkedin.com/in/balachoudry/)
+[![Email](https://img.shields.io/badge/Email-bala.choudry@gmail.com-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:bala.choudry@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=balachoudry-tech\&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💼 About Me
+## About Me
 
-Engineering Manager with **15+ years of experience** building scalable backend platforms and leading engineering teams.
+Engineering Manager with **15+ years of experience** designing, building, and leading backend platforms and distributed systems.
 
-I combine technical leadership with hands-on software engineering, contributing to architecture, system design, code reviews, production debugging, and platform modernization while mentoring engineers and driving engineering excellence.
-
-My experience spans high-availability distributed systems processing **millions of API requests daily**, microservices, cloud-native platforms, and AI-enabled backend solutions.
+I enjoy solving complex engineering problems while remaining hands-on with architecture, system design, production debugging, code reviews, and platform modernization. My experience spans high-availability backend services, microservices, cloud-native applications, and AI-powered platform capabilities.
 
 ---
 
-## 💼 Professional Experience
+## Core Expertise
 
-### Engineering Manager – Backend Platform
-**Kaleyra (Acquired by Tata Communications)**
+### Engineering Leadership
 
-- Lead backend engineering teams delivering production-ready services
-- Drive architecture reviews and engineering best practices
-- Hands-on with coding, debugging and critical production issues
-- Lead monolith-to-microservice modernization initiatives
-- Improve latency, reliability and deployment velocity
-- Mentor engineers and support career development
-
----
-
-## 🏗 Core Competencies
-
-### Technical Leadership
-
-- Engineering Management
-- Software Architecture
-- System Design
-- Code Reviews
-- Agile / Scrum
-- SDLC
-- SaaS Platforms
-
-### People Leadership
-
-- Hiring
-- Mentoring
-- Coaching
-- Performance Management
-- Career Development
+* Engineering Management
+* Technical Leadership
+* Software Architecture
+* System Design
+* Code Reviews
+* Agile & Scrum
+* SDLC
+* Mentoring & Coaching
+* Hiring & Performance Management
 
 ### Backend Engineering
 
-- Distributed Systems
-- High Availability Systems
-- Microservices
-- Event-Driven Architecture
-- REST APIs
-- Performance Optimization
-- Scalability Engineering
+* Distributed Systems
+* Microservices
+* Event-Driven Architecture
+* RESTful APIs
+* High Availability Platforms
+* Performance Optimization
+* Scalability Engineering
+* Production Reliability
 
 ---
 
-## 💻 Technology Stack
+## Technology Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,nodejs,python,php"/>
+<img src="https://skillicons.dev/icons?i=go,nodejs,python,php" />
 </p>
 
 ### Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,laravel"/>
+<img src="https://skillicons.dev/icons?i=fastapi,laravel" />
 </p>
 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
 </p>
 
 **Google Firestore • DynamoDB • ChromaDB**
 
-### Cloud & Infrastructure
+### Cloud & Messaging
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker"/>
+<img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
 
-AWS Lambda • Amazon SNS • Amazon SQS • Amazon S3 • RabbitMQ
+AWS Lambda • Amazon SQS • Amazon SNS • Amazon S3 • RabbitMQ
 
 ### Monitoring
 
-- AWS CloudWatch
-- New Relic
+* AWS CloudWatch
+* New Relic
+
+### AI & GenAI
+
+* Retrieval-Augmented Generation (RAG)
+* Claude LLM Integration
+* Chroma Vector Database
+* Embedding Models
+* AI-Assisted Development Workflows
 
 ---
 
-## 🤖 AI Experience
+## Professional Experience
 
-- Retrieval-Augmented Generation (RAG)
-- Claude LLM Integration
-- Chroma Vector Database
-- Embedding Models
-- AI-Assisted Development Workflows
+### Engineering Manager – Backend Platform
 
----
+**Kaleyra (Acquired by Tata Communications)**
 
-## 🏆 Career Highlights
+Leading backend engineering teams responsible for highly available communication platforms processing millions of API requests. Driving architecture decisions, production readiness, engineering standards, and mentoring engineers while remaining actively involved in software development.
 
-- 💼 15+ Years in Software Engineering
-- 👥 Engineering Manager leading backend platform teams
-- 🚀 Designed high-scale distributed backend systems
-- ⚡ Services processing millions of API requests daily
-- 🔄 Led monolith-to-microservice migrations
-- 📈 Improved latency, reliability and release velocity
-- 🧠 Hands-on architecture, debugging and production readiness
-- 🤝 Partnered with Product, QA, Operations and Leadership
+### Previous Roles
+
+* Manager – Technology | Mahindra First Choice Wheels Ltd.
+* Software Engineer | GBS India Pvt. Ltd.
+* Team Lead | Griffin Studios Pvt. Ltd.
+* Web Developer | Foray Technologies
 
 ---
 
-## 📊 GitHub Statistics
+## Professional Highlights
+
+* 15+ years of software engineering experience
+* Led backend engineering teams across multiple products
+* Designed and modernized distributed backend platforms
+* Led monolith-to-microservice migration initiatives
+* Improved system latency, reliability, and release velocity
+* Built production-ready RESTful APIs and event-driven services
+* Hands-on contributor in architecture, debugging, and code quality
+* Experienced collaborating with Product, QA, Infrastructure, and Operations teams
+
+---
+
+## Domain Experience
+
+* CPaaS
+* Insurance
+* Automotive
+* Finance
+
+---
+
+## GitHub Statistics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=balachoudry-tech&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170" src="https://streak-stats.demolab.com?user=balachoudry-tech&theme=github-dark&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balachoudry-tech&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 💻 Most Used Languages
+## Education
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+* Master of Computer Applications (MCA)
+* Master of Business Administration (MBA)
+* Bachelor of Computer Applications (BCA)
 
 ---
 
-## 📈 Contribution Graph
+## Connect
 
-<p align="center">
+📧 **Email:** [bala.choudry@gmail.com](mailto:bala.choudry@gmail.com)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-## 🌍 Industry Experience
-
-- CPaaS
-- Insurance
-- Automotive
-- Finance
-
----
-
-## 🎓 Education
-
-- Master of Computer Applications (MCA)
-- Master of Business Administration (MBA)
-- Bachelor of Computer Applications (BCA)
+💼 **LinkedIn:** https://www.linkedin.com/in/balachoudry/
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-<a href="mailto:bala.choudry@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/balachoudry/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br><br>
-
-**"Building scalable systems, empowering engineers, and delivering reliable software."**
+*"Building scalable systems, enabling engineering teams, and delivering reliable software through thoughtful architecture."*
 
 </div>
