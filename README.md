@@ -125,17 +125,6 @@ RBAC
 
 ---
 
-## 🧪 Playwright Framework
-
-Enterprise Automation
-
-API Testing
-
-Reporting
-
-CI/CD
-
----
 
 # 📈 GitHub Stats
 
