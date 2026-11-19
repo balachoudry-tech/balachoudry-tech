@@ -2,7 +2,7 @@
 
 # R. Balachoudry
 
-### Engineering Manager • Backend Platform • Distributed Systems
+### SENIOR AI ENGINEER | GENERATIVE AI | LLM & RAG | AI PLATFORM ENGINEERING
 
 Designing scalable backend platforms, leading engineering teams, and building reliable distributed systems.
 
